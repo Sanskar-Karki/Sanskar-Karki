@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a front-end developer with a keen eye for UI/UX, experienced in the MERN stack, and passionate about creating responsive, user-friendly web applications.
 
-🌍 Check out my portfolio: **[sanskarkarki.com.np](https://www.sanskarkarki.com.np) 🚀**  
+🏠My portfolio: **[sanskarkarki.com.np](https://www.sanskarkarki.com.np) 🚀**  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sans2525) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanskar-karki-480b2a199/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sansplays6992) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanskarkarki20@gmail.com) 
